@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\Users\aliaslan\source\repos\DeppoControlBackend\DeppoControlBackend\bin\Release\net6.0\publish\</_PublishTargetUrl>
+    <History>True|2022-11-08T11:04:18.4880911Z;True|2022-11-08T13:54:57.5679238+03:00;True|2022-08-25T17:20:09.8835155+03:00;True|2022-08-25T17:18:38.5501528+03:00;True|2022-08-25T13:32:24.9158857+03:00;True|2022-08-25T13:24:57.2493409+03:00;True|2022-08-25T11:18:58.7252992+03:00;True|2022-08-25T09:46:07.4735253+03:00;True|2022-08-24T16:44:13.9096617+03:00;True|2022-08-04T16:10:24.1829753+03:00;</History>
+  </PropertyGroup>
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "0S21bXiKznxjEKq7Ol/Fh1LL0JU8F5hvHCBOOdFaVro=",
+  "Source": "DeppoControlBackend",
+  "BasePath": "_content/DeppoControlBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
